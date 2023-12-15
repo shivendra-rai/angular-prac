@@ -1,4 +1,5 @@
 # angular-prac
+
 Angular practice projects
 <br>
-Author - Shivendra Rai
+Author - Shivendra Rai (All Assignments)
